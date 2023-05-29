@@ -1,2 +1,2 @@
 # ScientificComputing
-A repository form different scientific computing code
+A repository for different scientific computing code
